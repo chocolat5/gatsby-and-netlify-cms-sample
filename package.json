@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-advanced",
-  "description": "GatsbyJS starter that includes examples for advanced use cases.",
-  "version": "2.20.11",
-  "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
+  "name": "gatsby-and-netlify-cms-sample",
+  "description": "",
+  "version": "1.0.0",
+  "author": "",
   "dependencies": {
     "gatsby": "^3.0.1",
     "gatsby-plugin-catch-links": "^3.0.0",
